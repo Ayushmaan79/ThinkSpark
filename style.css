@@ -111,3 +111,10 @@ body {
   margin-top: 2rem;
   color: #999;
 }
+.author-bio {
+  font-size: 0.9rem;
+  color: #888;
+  text-align: center;
+  padding-top: 1rem;
+  font-style: italic;
+}
